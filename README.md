@@ -1,6 +1,6 @@
 
 
-### 你好，我是我想藏在罐头里，很高兴认识你哦 👋
+### 你好，我是罐头先生，很高兴认识你哦 👋
 
 [日记： https://github.com/jackbrens/blog](https://github.com/jackbrens/blog)
 
